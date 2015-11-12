@@ -2,6 +2,9 @@
 
 This file is used to list changes made in each version of tracelytics.
 
+## 0.0.8
+* Add cookbook name to metadata.rb for berkshelf support.
+
 ## 0.0.7
 * customizable apache oboe.conf template, cleaner default attributes 
 
